@@ -38,4 +38,4 @@ varios **personajes** (n a n)
 
 ### conclusion: 
 #### Luego de modelar esta base de datos, llego a la conclusión de que optaria por utilizar una base de datos no relacional, ya que la información de una serie de anime es muy acotada en cuanto a la relación personajes-episodios-temporada y no tiene una gran escalabilidad.
-#### utilizo un archivo Json para demostrar como podria modelar la información de los personajes(la información que contiene es a modo de ejemplo) para luego ser volcada en una pagina web.
+#### Utilizo un archivo Json para demostrar como podria modelar la información de los personajes(la información que contiene es a modo de ejemplo) para luego ser volcada en una pagina web.
